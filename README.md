@@ -1,5 +1,5 @@
 ### Hi there 👋
-# [This Fawzi Gharib]
+# This is Fawzi Gharib
 
 ## Mobile App Developer | Flutter | Desktop Application | C# | .NET 🧑‍💻
 
@@ -25,7 +25,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/fawzi-gharib-0a3961209
 
 Happy coding!😀
 
-[Fawzi Gharib]
+Fawzi Gharib
 
 <!--
 **fawzitheprogrammer/fawzitheprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
