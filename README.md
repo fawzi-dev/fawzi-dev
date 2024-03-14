@@ -1,43 +1,65 @@
-### Hi there 👋
-# This is Fawzi Gharib
+<h1 align="left">Hi 👋! I'm Fawzi, a self-taught software developer and I'm from Erbil.</h1>
 
-## Mobile App Developer | Flutter | Desktop Application | C# | .NET 🧑‍💻
+###
 
-Welcome to my GitHub profile! I'm a passionate and versatile software developer with a focus on mobile app development using Flutter, as well as desktop application development with C# and .NET. I love to explore new technologies and solve complex problems through creative and efficient coding.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+</div>
 
-### Mobile App Development 📱
+###
 
-I specialize in developing cross-platform mobile applications using Flutter framework, which allows me to build beautiful and responsive apps that run seamlessly on both Android and iOS platforms. With Flutter, I can create engaging user interfaces, integrate APIs, and implement complex functionalities to deliver high-quality mobile experiences.
+<div align="left">
+  <a href="https://www.youtube.com/@FawziTheProgrammer" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/fawzitheprogrammer/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/fawzi-gharib-0a3961209/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-### Desktop Application Development 💻
+###
 
-In addition to mobile app development, I also have experience in building desktop applications using C# and .NET. This enables me to create robust and feature-rich software solutions that cater to specific business needs. I'm proficient in developing intuitive user interfaces, implementing data management systems, and optimizing performance to ensure smooth user experiences.
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=fawzitheprogrammer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=fawzitheprogrammer&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fawzitheprogrammer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### Other Skills and Interests 🧩
+###
 
-Besides my expertise in mobile and desktop development, I have a strong foundation in software engineering principles, object-oriented programming, and problem-solving. I enjoy exploring various programming languages and frameworks to expand my skill set and stay up-to-date with the latest industry trends.
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app?username=fawzitheprogrammer&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, and continuously honing my skills. I believe in the power of collaboration and learning from others, and that's why I'm excited to be part of the GitHub community.
+###
 
-Feel free to explore my repositories to see some of my projects and contributions. If you have any questions, suggestions, or collaboration opportunities, don't hesitate to reach out. Let's create innovative software solutions together!
+<div align="left">
+  <a href="https://open.spotify.com/user/313zp6pkdng5ezj6uarjahi34pgi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313zp6pkdng5ezj6uarjahi34pgi&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/fawzi-gharib-0a3961209/) and subscribe me on [YouTube](https://www.youtube.com/channel/UCv9V_T95kWT07Yv_3ahp3iw) for more updates.
-
-Happy coding!😀
-
-Fawzi Gharib
-
-<!--
-**fawzitheprogrammer/fawzitheprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
