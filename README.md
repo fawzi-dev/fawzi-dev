@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! I'm Fawzi, a self-taught software developer and I'm from Erbil.</h1>
+<h1 align="left">I'm Fawzi, a self-taught software developer</h1>
 
 ###
 
