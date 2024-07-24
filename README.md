@@ -41,9 +41,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
-###
-
-###
 
 <div align="left">
   <a href="https://www.youtube.com/@FawziTheProgrammer" target="_blank">
