@@ -1,37 +1,38 @@
 ### About Me
 
-```json
-{
-  "About": {
-    "name": "Fawzi",
-    "role": "Self-Taught Software Developer",
-    "bio": "I am a passionate self-taught software developer with expertise in Flutter, Dart, JavaScript, and modern web technologies. I love building scalable applications and contributing to open-source projects.",
-    "currentWorkplace": {
-      "company": "Your Company (or Freelance)",
-      "position": "Software Developer"
-    },
-    "skills": {
-      "languages": ["Dart", "JavaScript", "Python"],
-      "frameworks": ["Flutter", "React", "Node.js", "Express"],
-      "tools": ["Git", "Docker", "Firebase", "VS Code"],
-      "databases": ["MongoDB", "MySQL", "PostgreSQL"]
-    },
-    "interests": [
-      "Mobile App Development",
-      "Web Development",
-      "Open Source Contributions",
-      "Learning New Technologies"
-    ],
-    "goals": [
-      "Contribute to open-source projects",
-      "Build scalable and impactful applications",
-      "Mentor aspiring developers",
-      "Explore cloud technologies and DevOps"
-    ],
-    "contact": {
-      "linkedin": "https://www.linkedin.com/in/fawzi-gharib-0a3961209/",
-      "github": "https://github.com/fawzi-dev",
-      "youtube": "https://www.youtube.com/@fawzidev"
-    }
-  }
+```dart
+class AboutMe {
+  String name = 'Fawzi';
+  String role = 'Full-Stack Developer';
+  String bio = 'Passionate about building scalable apps with Flutter, Dart, and modern web tech. Open-source enthusiast.';
+
+  Map<String, dynamic> myCurrentWorkplace() => {
+    'company': 'MiroTech',
+    'position': 'Mobile App Developer'
+  };
+
+  Map<String, List<String>> mySkills() => {
+    'languages': ['Dart', 'JavaScript', 'PHP'],
+    'frameworks': ['Flutter', 'React', 'Node.js','Express','React'],
+    'tools': ['Git', 'Docker', 'Firebase'],
+    'databases': ['MongoDB', 'MySQL', 'PostgreSQL']
+  };
+
+  List<String> myInterests() => [
+    'Mobile & Web Development',
+    'Open Source',
+    'Learning New Tech'
+  ];
+
+  List<String> myGoals() => [
+    'Contribute to open source',
+    'Build impactful apps',
+    'Mentor aspiring developers'
+  ];
+
+  Map<String, String> contactMe() => {
+    'linkedin': 'https://linkedin.com/in/fawzi-gharib',
+    'github': 'https://github.com/fawzi-dev',
+    'youtube': 'https://youtube.com/@fawzidev'
+  };
 }
