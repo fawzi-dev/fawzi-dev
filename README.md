@@ -31,7 +31,7 @@ class AboutMe {
   ];
 
   Map<String, String> contactMe() => {
-    'linkedin': 'https://linkedin.com/in/fawzi-gharib',
+    'linkedin': 'https://www.linkedin.com/in/fawzi-gharib-0a3961209/',
     'github': 'https://github.com/fawzi-dev',
     'youtube': 'https://youtube.com/@fawzidev'
   };
