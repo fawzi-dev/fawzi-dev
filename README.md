@@ -1,4 +1,4 @@
-### About Me (In JSON Format)
+### About Me
 
 ```json
 {
