@@ -1,5 +1,4 @@
 ### About Me
-![GitHub Streak](https://streak-stats.demolab.com?user=fawzi-dev&theme=light&hide_border=true)
 
 ```dart
 class AboutMe {
@@ -37,3 +36,5 @@ class AboutMe {
     'youtube': 'https://youtube.com/@fawzidev'
   };
 }
+```
+![GitHub Streak](https://streak-stats.demolab.com?user=fawzi-dev&theme=light&hide_border=true)
