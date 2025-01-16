@@ -1,4 +1,5 @@
 ### About Me
+![GitHub Streak](https://streak-stats.demolab.com?user=fawzi-dev&theme=light&hide_border=true)
 
 ```dart
 class AboutMe {
