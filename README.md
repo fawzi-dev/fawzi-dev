@@ -1,3 +1,5 @@
+[![GitHub Streak](https://streak-stats.demolab.com?user=fawzi-dev&theme=meta-dark)](https://git.io/streak-stats)
+
 ### About Me
 
 ```dart
