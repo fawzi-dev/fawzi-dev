@@ -14,7 +14,7 @@ Hi! I'm **Fawzi**, a **Full-Stack Developer** passionate about building scalable
 ## 🛠️ Skills
 
 **Languages:**  
-Dart, JavaScript, PHP
+Dart, JavaScript, PHP, Kotlin
 
 **Frameworks & Libraries:**  
 Flutter, React, Node.js, Express
