@@ -1,38 +1,50 @@
-### About Me
+# 👨‍💻 About Me
 
-```dart
-class AboutMe {
-  String name = 'Fawzi';
-  String role = 'Full-Stack Developer';
-  String bio = 'Passionate about building scalable apps with Flutter, Dart, and modern web tech. Open-source enthusiast.';
+Hi! I'm **Fawzi**, a **Full-Stack Developer** passionate about building scalable apps using **Flutter**, **Dart**, and modern web technologies. I'm also an open-source enthusiast.
 
-  Map<String, dynamic> myCurrentWorkplace() => {
-    'company': 'MiroTech',
-    'position': 'Mobile App Developer'
-  };
+---
 
-  Map<String, List<String>> mySkills() => {
-    'languages': ['Dart', 'JavaScript', 'PHP'],
-    'frameworks': ['Flutter', 'React', 'Node.js','Express','React'],
-    'tools': ['Git', 'Docker', 'Firebase'],
-    'databases': ['MongoDB', 'MySQL', 'PostgreSQL']
-  };
+## 🏢 Current Workplace
 
-  List<String> myInterests() => [
-    'Mobile & Web Development',
-    'Open Source',
-    'Learning New Tech'
-  ];
+- **Company:** MiroTech  
+- **Position:** Mobile App Developer
 
-  List<String> myGoals() => [
-    'Contribute to open source',
-    'Build impactful apps',
-    'Mentor aspiring developers'
-  ];
+---
 
-  Map<String, String> contactMe() => {
-    'linkedin': 'https://www.linkedin.com/in/fawzi-dev',
-    'github': 'https://github.com/fawzi-dev',
-    'youtube': 'https://youtube.com/@fawzidev'
-  };
-}
+## 🛠️ Skills
+
+**Languages:**  
+Dart, JavaScript, PHP
+
+**Frameworks & Libraries:**  
+Flutter, React, Node.js, Express
+
+**Tools:**  
+Git, Docker, Firebase
+
+**Databases:**  
+MongoDB, MySQL, PostgreSQL
+
+---
+
+## 💡 Interests
+
+- Mobile & Web Development  
+- Open Source  
+- Learning New Tech
+
+---
+
+## 🎯 Goals
+
+- Contribute to open source  
+- Build impactful apps  
+- Mentor aspiring developers
+
+---
+
+## 📫 Contact Me
+
+- [LinkedIn](https://www.linkedin.com/in/fawzi-dev)  
+- [GitHub](https://github.com/fawzi-dev)  
+- [YouTube](https://youtube.com/@fawzidev)
