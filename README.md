@@ -46,5 +46,4 @@ MongoDB, MySQL, PostgreSQL
 ## 📫 Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/fawzi-dev)  
-- [GitHub](https://github.com/fawzi-dev)  
 - [YouTube](https://youtube.com/@fawzidev)
